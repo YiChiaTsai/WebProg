@@ -35,7 +35,7 @@ footer>img{
 }
 #stretch{
 	position: relative;
-	width: 450px;
+	width: 350px;
 	padding:10px 20px
 	-webkit-border-image: url(http://www.w3schools.com/css/border.png) 30 30 stretch; /* Safari 3.1-5 */
   -o-border-image: url(http://www.w3schools.com/css/border.png) 30 30 stretch; /* Opera 11-12.1 */
